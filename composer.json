@@ -3,6 +3,6 @@
   "version": "v0.1-alpha",
   "require": {
     "php": ">=5.3",
-    "behat/mink": "1.4.*@stable"
+    "behat/mink": "1.5.*@stable"
   }
 }
